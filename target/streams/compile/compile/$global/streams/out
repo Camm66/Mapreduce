@@ -1,0 +1,10 @@
+[0m[[0m[33mwarn[0m] [0m[0m/Users/cam/Desktop/GeneralMapReduce/src/main/scala/common/Plugins/Hyperlink_Functions/ReduceFunctions_Hyperlink.scala:12:55: non-variable type argument Int in type List[Int] (the underlying of List[Int]) is unchecked since it is eliminated by erasure[0m
+[0m[[0m[33mwarn[0m] [0m[0m    if (key.isInstanceOf[String] && value.isInstanceOf[List[Int]]) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                      ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/cam/Desktop/GeneralMapReduce/src/main/scala/common/Plugins/ProperNames_Functions/ReduceFunctions_ProperNames.scala:12:55: non-variable type argument String in type List[String] (the underlying of List[String]) is unchecked since it is eliminated by erasure[0m
+[0m[[0m[33mwarn[0m] [0m[0m    if (key.isInstanceOf[String] && value.isInstanceOf[List[String]]) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                      ^[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/cam/Desktop/GeneralMapReduce/src/main/scala/common/Plugins/WordCount_Functions/ReduceFunctions_WordCount.scala:11:55: non-variable type argument Int in type List[Int] (the underlying of List[Int]) is unchecked since it is eliminated by erasure[0m
+[0m[[0m[33mwarn[0m] [0m[0m    if (key.isInstanceOf[String] && value.isInstanceOf[List[Int]]) {[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                      ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mthree warnings found[0m
